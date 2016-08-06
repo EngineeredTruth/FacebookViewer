@@ -1,0 +1,27 @@
+{
+  "name": "facebook-viewer",
+  "version": "1.0.0",
+  "description": "FacebookViewer ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngineeredTruth/FacebookViewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngineeredTruth/FacebookViewer/issues"
+  },
+  "homepage": "https://github.com/EngineeredTruth/FacebookViewer#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-session": "^1.14.0",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1"
+  }
+}
